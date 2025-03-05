@@ -1,5 +1,6 @@
 #intro {
     background-image: var(--bg-intro);
+    max-width: 100%;
     padding-block: 120px 60px;
 }
 

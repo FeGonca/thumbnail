@@ -8,7 +8,7 @@
     --red: #E3646E;
     --purple: #BB72E9;
     --blue: #3996DB;
-    --green: ##82BC4F;
+    --green: #82BC4F;
     --yellow: #EABD5F;
 
     --gray-100: #0D0E11;
@@ -19,6 +19,7 @@
     --gray-600: #E2E4E9;
 
     --bg-intro: url(../assets/image/Background_Intro.png);
+    --bg-contact: url(../assets/image/Background_Contacts.png);
 
     --font-family-asap: "Asap", sans-serif;
     --title-lg: 700 56px/120% var(--font-family-asap);
